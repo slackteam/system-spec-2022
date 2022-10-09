@@ -15,10 +15,12 @@ Here’s the high-level detail on the SPEC for each of the drive types available
 $99 - https://a.co/d/eJy9KA8
 Samsung 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard Drive w/ V-NAND Technology, Storage and Memory Expansion for Gaming, Graphics w/ Heat Control, Max Speed, MZ-V7S1T0B/AM 
 
-
-
 $529 - https://a.co/d/gT9el9l 
 INLAND Performance Plus 4TB PS5 SSD PCIe NVMe 4.0 x 4 M.2 2280 TLC 3D NAND Internal Solid State Drive, R/W Speed up to 7200MB/s and 6800MB/s, 3000 TBW 
+
+$589 - https://a.co/d/as5fLP6
+Kingston FURY Renegade 4TB PCIe Gen 4.0 NVMe M.2 Internal Gaming SSD | Up to 7300 MB/s | Graphene Heat Spreader | 3D TLC NAND | Works with PS5 | SFYRD/4000G 
+
 
 
 
